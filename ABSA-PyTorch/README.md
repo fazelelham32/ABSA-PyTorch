@@ -1,8 +1,7 @@
 # ABSA-PyTorch
 
 > Aspect Based Sentiment Analysis, PyTorch Implementations.
->
-> 基于方面的情感分析，使用PyTorch实现。
+
 
 ![LICENSE](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
